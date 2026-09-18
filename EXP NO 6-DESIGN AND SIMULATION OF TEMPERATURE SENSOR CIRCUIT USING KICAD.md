@@ -13,3 +13,7 @@
 
 ## result
 <img width="1600" height="646" alt="image" src="https://github.com/user-attachments/assets/cba00f36-7f74-40f3-ae62-5e78d4333596" />
+
+## Mark splitup
+<img width="1414" height="1600" alt="image" src="https://github.com/user-attachments/assets/5e118857-d242-4f78-b4fa-fd227db8bb78" />
+
