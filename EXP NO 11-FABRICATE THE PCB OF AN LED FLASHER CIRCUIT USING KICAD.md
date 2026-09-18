@@ -7,7 +7,14 @@
 
 
 ## Kicad circuit diagram
+<img width="1600" height="1174" alt="image" src="https://github.com/user-attachments/assets/7e1138ee-a742-46ca-af94-16e59a67236f" />
 
 ## PCB 3D view
+<img width="1600" height="1260" alt="image" src="https://github.com/user-attachments/assets/4c05da58-c22a-4086-b7b5-b6c22c2fdeb0" />
+
 
 ## result
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/5b2c97e0-a0d5-433c-8f7a-1cbe6110b84b" />
+
+## Mark Splitup
+<img width="1525" height="1600" alt="image" src="https://github.com/user-attachments/assets/6168c4f4-8da6-4d87-a2a5-ccc6f05403d3" />
