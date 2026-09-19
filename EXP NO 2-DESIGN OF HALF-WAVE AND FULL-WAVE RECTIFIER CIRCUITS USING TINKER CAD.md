@@ -8,9 +8,19 @@
 
 
 ## tinker cad circuit diagram
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/24a4c21f-da31-402e-b39e-edaa4d430259" />
 
 ## ripple factor calculation
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/bcee6df5-0ff5-421f-9ab6-5d86ca51d364" />
 
 ## output graph
+<img width="1127" height="1600" alt="image" src="https://github.com/user-attachments/assets/485bd18a-f9aa-4acf-a2ab-45f4bbbb1029" />
+<img width="1227" height="1600" alt="image" src="https://github.com/user-attachments/assets/3b91464c-1aaf-4b58-8bb3-8ae22d3e8fa8" />
+
 
 ## result
+<img width="1600" height="910" alt="image" src="https://github.com/user-attachments/assets/075f8a8f-56b6-436a-9430-cce8ee835235" />
+
+## Mark Splitup
+<img width="1400" height="1600" alt="image" src="https://github.com/user-attachments/assets/1f19e56a-c6d4-4f69-925a-8624239e94d8" />
+
